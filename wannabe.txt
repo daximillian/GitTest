@@ -1,0 +1,22 @@
+Ha ha ha ha                                                   -> BOTH: Insert another "ha"
+Yo, I'll tell you what I want, what I really, really want
+So tell me what you want, what you really, really want
+I'll tell you what I want, what I really, really want!!!      -> SHELDON: remove exclamation marks
+So tell me what you want, what you really, really want
+I wanna, (ha)                                                 -> PENNY: Insert another three "I wanna, (ha)"
+I wanna really, really, really wanna zigaziga.                -> SHELDON: Supposed to be "zigazig ah"
+
+If you want my future, forget my past
+If you want my future, forget my past                         -> BOTH: Delete duplicate line
+If you wanna get with me, better make it fast
+Get your act together we could be just fine                   -> PENNY: Lines swapped
+Now don't go wasting my precious time
+
+I'll tell you what I want, what I really, really want
+.....                                                         -> SHELDON: Missing lines 5-7
+
+If you wanna be my cup of code, you gotta get with my friends -> PENNY: Change "cup of code" to "lover"
+(Gotta get with my friends)
+Make it last forever, friendship never ends                   -> BOTH: Comment (// ) lines 21-23
+If you wanna be my lover, you have got to give
+Taking is too easy, but that's the way it is
